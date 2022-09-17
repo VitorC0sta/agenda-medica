@@ -3,7 +3,7 @@
 
 int main()
 {
-   printf("Agenda Médica vinao");
+   printf("Agenda Medica");
 
  return 0;
 }
